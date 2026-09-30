@@ -1,0 +1,408 @@
+{
+  "charminar": {
+    "visit_duration": "1–2 hours",
+    "ticketed": false,
+    "ticket_indian": "Walking the square is free. A separate ticket applies only if the minar is open for climbing that day.",
+    "ticket_foreign": "The square is free. Climb tickets, when the minar is open, are higher for foreign visitors.",
+    "getting_there": "From Tank Bund, allow about 35 minutes. The last stretch through Char Kaman is slow. Use a cab and get down a short walk from the monument. Metro to Charminar is the calmer option on a Sunday.",
+    "stay_nearby": "Stay in Abids or Nampally if you want the old city in the morning, or Banjara Hills if you want quieter nights and will cab in. The lanes right under Charminar are for the visit, not for a comfortable hotel night.",
+    "what_to_pack": "Modest clothes if you will also enter Mecca Masjid, a scarf, cash for the bazaar, and a bottle of water. Leave big backpacks in the car.",
+    "highlights": [
+      "The four-arch monument and the clock faces",
+      "Laad Bazaar and the pearl shops off the west arch",
+      "Mecca Masjid, one lane away"
+    ]
+  },
+  "golconda-fort": {
+    "visit_duration": "2–3 hours",
+    "ticketed": true,
+    "ticket_indian": "About ₹25 for Indian visitors. The evening sound-and-light show is a separate ticket.",
+    "ticket_foreign": "About ₹300 for foreign visitors. Show tickets are extra.",
+    "getting_there": "About 40 minutes from Tank Bund via Mehdipatnam. Cabs can drop you at the main gate. The climb starts just inside, so there is no shortcut to the top.",
+    "stay_nearby": "There is no hotel inside the fort. Stay in Tolichowki, Mehdipatnam, or Banjara Hills and come for the morning. An overnight only makes sense if you are also booking the sound-and-light evening.",
+    "what_to_pack": "Grippy shoes, water, a hat, and sunscreen. The citadel climb is steep and mostly unshaded.",
+    "highlights": [
+      "The clapping portico near the entrance",
+      "The climb to the Durbar hall and the view over the city",
+      "Qutb Shahi Tombs, a short drive if you still have energy"
+    ]
+  },
+  "qutb-shahi-tombs": {
+    "visit_duration": "1.5–2 hours",
+    "ticketed": true,
+    "ticket_indian": "A modest monument ticket. Keep it until you leave.",
+    "ticket_foreign": "Higher foreign-visitor rate. Confirm the day's price at the gate.",
+    "getting_there": "The tombs sit beside Golconda, about 45 minutes from Tank Bund. Do them in the same cab as the fort so you are not negotiating a second ride.",
+    "stay_nearby": "Same as Golconda: Tolichowki or Banjara Hills. There is no stay on the grounds.",
+    "what_to_pack": "Water and a hat. The gardens have shade, but the stone courts do not.",
+    "highlights": [
+      "The restored domes and plaster galleries",
+      "The central garden walk between the larger tombs",
+      "A quieter hour than the fort next door"
+    ]
+  },
+  "chowmahalla-palace": {
+    "visit_duration": "1.5 hours",
+    "ticketed": true,
+    "ticket_indian": "Palace ticket, typically a few hundred rupees. Closed on Friday.",
+    "ticket_foreign": "A higher foreign-visitor ticket. Closed on Friday.",
+    "getting_there": "In the old city, about 35 minutes from Tank Bund. Pair the cab with Charminar so you park once.",
+    "stay_nearby": "Abids and Nampally are the practical bases. The palace lanes are tight for a hotel drop at peak hour.",
+    "what_to_pack": "Nothing special. Photography rules change by room, so ask before you use a flash.",
+    "highlights": [
+      "The southern courtyard and clock tower",
+      "The durbar hall",
+      "A calmer old-city stop than the Charminar square"
+    ]
+  },
+  "falaknuma-palace": {
+    "visit_duration": "2–3 hours with a booking",
+    "ticketed": true,
+    "ticket_indian": "There is no monument ticket. You enter as a Taj Falaknuma guest or with a booked high tea.",
+    "ticket_foreign": "Same rule. Book the experience before you drive up.",
+    "getting_there": "About 45 minutes from Tank Bund to Engine Bowli. The last climb is a narrow hill road. Cabs wait at the designated point if you are a booked guest.",
+    "stay_nearby": "The palace itself is the stay, and it is a special-occasion rate. Otherwise sleep in the city and come only for the booked afternoon.",
+    "what_to_pack": "Smart clothes. This is a hotel, not a fort climb.",
+    "highlights": [
+      "The view of the old city from the hill",
+      "The palace interiors, if you have a booking",
+      "High tea as the realistic way in for a day visitor"
+    ]
+  },
+  "paigah-tombs": {
+    "visit_duration": "45 minutes",
+    "ticketed": true,
+    "ticket_indian": "A small fee at the gate. Carry cash.",
+    "ticket_foreign": "Ask at the gate. The fee is modest.",
+    "getting_there": "Santoshnagar, about 35 minutes from Tank Bund. Easy to add after Salar Jung Museum.",
+    "stay_nearby": "No reason to stay here. Use a central hotel and treat this as a short stop.",
+    "what_to_pack": "Nothing beyond water. The site is compact.",
+    "highlights": [
+      "Lime-plaster carving that looks like lace",
+      "A quiet courtyard most weekend lists skip",
+      "A short add-on to a museum morning"
+    ]
+  },
+  "mecca-masjid": {
+    "visit_duration": "30–45 minutes",
+    "ticketed": false,
+    "ticket_indian": "Free. Shoes come off at the gate.",
+    "ticket_foreign": "Free. Dress modestly and follow the caretakers.",
+    "getting_there": "Steps from Charminar, so use the same cab. Do not plan a separate drive.",
+    "stay_nearby": "Stay in Abids or Nampally if the old city is the point of the weekend. The mosque neighbourhood is not a hotel district.",
+    "what_to_pack": "A scarf, clothes that cover shoulders and knees, and socks you do not mind removing.",
+    "highlights": [
+      "The courtyard and the scale of the prayer hall",
+      "The Nizam graves along the side",
+      "The walk back into the Charminar square"
+    ]
+  },
+  "salar-jung-museum": {
+    "visit_duration": "2–3 hours",
+    "ticketed": true,
+    "ticket_indian": "A museum ticket of a few tens of rupees for Indians. Closed on Friday. Large bags go to the cloakroom.",
+    "ticket_foreign": "A higher foreign-visitor ticket. Closed on Friday.",
+    "getting_there": "On the south bank of the Musi, about 30 minutes from Tank Bund. Cabs stop on Salar Jung Road.",
+    "stay_nearby": "Abids is the nearest comfortable cluster. You do not need a hotel by the museum.",
+    "what_to_pack": "A light layer for the air-conditioned galleries and patience for the popular rooms.",
+    "highlights": [
+      "The double statue and the clock",
+      "Deccan weapons and Indian miniatures",
+      "Enough galleries that a one-hour plan does not work"
+    ]
+  },
+  "hussain-sagar": {
+    "visit_duration": "1–2 hours",
+    "ticketed": false,
+    "ticket_indian": "Tank Bund and Necklace Road are free. Boat rides from Lumbini Park are ticketed.",
+    "ticket_foreign": "The promenade is free. Boats are ticketed.",
+    "getting_there": "This is the reference point for every other trip on the site. Walk, or take a 10-minute cab along the bund.",
+    "stay_nearby": "Necklace Road, Somajiguda, and Himayatnagar put you on the lake for the evening. Book there if the weekend is mostly in-city.",
+    "what_to_pack": "Nothing. Evenings are pleasant for most of the year. Weekends fill the parking early.",
+    "highlights": [
+      "The Buddha statue in the lake",
+      "The Tank Bund promenade at sunset",
+      "Lumbini Park if you want the boat"
+    ]
+  },
+  "durgam-cheruvu": {
+    "visit_duration": "1 hour",
+    "ticketed": false,
+    "ticket_indian": "The bridge walkway is free.",
+    "ticket_foreign": "Free.",
+    "getting_there": "About 35 minutes from Tank Bund toward Madhapur. The cable bridge has a pedestrian side.",
+    "stay_nearby": "HITEC City, Madhapur, and Jubilee Hills are full of hotels if this end of the city is your base. The lake itself is a sunset stop, not a resort.",
+    "what_to_pack": "A layer if you are staying for the wind on the bridge. This is not a swimming spot.",
+    "highlights": [
+      "The cable-stayed bridge at sunset",
+      "The rocky edge of Secret Lake",
+      "An easy add-on to Shilparamam"
+    ]
+  },
+  "osman-sagar": {
+    "visit_duration": "1–2 hours",
+    "ticketed": false,
+    "ticket_indian": "The public bund is free. Food stalls are informal.",
+    "ticket_foreign": "Free.",
+    "getting_there": "Gandipet, about 50 minutes from Tank Bund. The bund road is the destination.",
+    "stay_nearby": "A few resorts sit on the Gandipet side if you want a night by the water. Otherwise stay in the city and drive out for sunset, and combine it with Himayat Sagar or Chilkur.",
+    "what_to_pack": "Water and snacks. Shops are unreliable.",
+    "highlights": [
+      "The long bund and the width of the reservoir",
+      "A quieter sunset than Necklace Road",
+      "A southwest loop with Chilkur Balaji"
+    ]
+  },
+  "himayat-sagar": {
+    "visit_duration": "45–90 minutes",
+    "ticketed": false,
+    "ticket_indian": "Free public access at the bund.",
+    "ticket_foreign": "Free.",
+    "getting_there": "About 55 minutes from Tank Bund, in the same direction as Osman Sagar. Do both in one drive.",
+    "stay_nearby": "Do not plan a hotel here. Sleep in the city or at a Gandipet resort and stop at the bund on the way.",
+    "what_to_pack": "Water and food from the city. Amenities are minimal.",
+    "highlights": [
+      "A quieter sister lake to Gandipet",
+      "Late-afternoon light on the water",
+      "Very little built promenade, which is the point"
+    ]
+  },
+  "ntr-gardens": {
+    "visit_duration": "1 hour",
+    "ticketed": true,
+    "ticket_indian": "A small garden ticket. The memorial next door may be separate.",
+    "ticket_foreign": "A small ticket. Confirm both gates if you want the memorial too.",
+    "getting_there": "South end of Hussain Sagar, about 10 minutes from Tank Bund. Walk from Lumbini if you are already on the lake.",
+    "stay_nearby": "The Necklace Road hotels are the right base. The gardens are an evening add-on, not a reason to change hotels.",
+    "what_to_pack": "Nothing beyond what you would take for a lake walk.",
+    "highlights": [
+      "Lawns on the lake",
+      "An easy evening after Tank Bund",
+      "The memorial next door if it is open"
+    ]
+  },
+  "birla-mandir": {
+    "visit_duration": "45 minutes",
+    "ticketed": false,
+    "ticket_indian": "Free. Shoes stay at the entrance. The temple usually closes from about noon to 3 pm.",
+    "ticket_foreign": "Free, with the same midday break.",
+    "getting_there": "Naubat Pahad, about 15 minutes from Tank Bund. The road up is short. There is a viewpoint over the lake from the terrace.",
+    "stay_nearby": "Somajiguda and Banjara Hills are a few minutes away. No need to stay on the hill.",
+    "what_to_pack": "Modest clothes. Photography inside the sanctum is restricted.",
+    "highlights": [
+      "White marble on the hill",
+      "The terrace view toward Hussain Sagar",
+      "A short stop that still feels like an outing"
+    ]
+  },
+  "chilkur-balaji": {
+    "visit_duration": "1–2 hours, longer on weekends",
+    "ticketed": false,
+    "ticket_indian": "Free. There is no hundi. The custom is to circle the sanctum.",
+    "ticket_foreign": "Free. Weekends mean long queues.",
+    "getting_there": "About an hour toward Chilkur. Combine the drive with Gandipet so the return is not only the temple.",
+    "stay_nearby": "Go back to the city, or stay at a Gandipet resort if you want the lakes the same evening. The temple road is not where you want a night.",
+    "what_to_pack": "Modest clothes, patience on Saturday, and water. The temple typically closes for a few afternoon hours.",
+    "highlights": [
+      "The Visa Balaji custom of circling the sanctum",
+      "A small temple with a very large weekend crowd",
+      "Gandipet on the same drive"
+    ]
+  },
+  "yadagirigutta": {
+    "visit_duration": "Half a day, including the drive and the queue",
+    "ticketed": false,
+    "ticket_indian": "Free darshan exists. Special-entry tickets are paid and sell out on busy days.",
+    "ticket_foreign": "The same queue system. Check special entry before you leave the city.",
+    "getting_there": "About 90 minutes on the NH163 side. The hill is reached by road, and by ropeway when it is running.",
+    "stay_nearby": "Yadagirigutta has lodges if you want dawn darshan. For a normal weekend, stay in Hyderabad and start early, or sleep one night in town only around festivals.",
+    "what_to_pack": "Patience, water, and a power bank. Saturday queues are the whole plan.",
+    "highlights": [
+      "The rebuilt hill temple",
+      "The view from the top once you are through the queue",
+      "A straightforward highway drive"
+    ]
+  },
+  "thousand-pillar-temple": {
+    "visit_duration": "1.5 hours at the temple, plus a night in Warangal",
+    "ticketed": true,
+    "ticket_indian": "A small ticket at the gate. Confirm the current rate.",
+    "ticket_foreign": "Ask at the gate. The fee is modest.",
+    "getting_there": "About three hours to Hanamkonda. This is an overnight, not a there-and-back dash. The highway is the easy part.",
+    "stay_nearby": "Sleep in Hanamkonda or Warangal. Use the next morning for Warangal Fort so the drive earns a second monument.",
+    "what_to_pack": "A hat, water, and a booked hotel. The stone is hot by late morning.",
+    "highlights": [
+      "The star-shaped Kakatiya plan",
+      "Lathe-turned pillars and the Nandi",
+      "Warangal Fort if you stay the night"
+    ]
+  },
+  "kbr-national-park": {
+    "visit_duration": "1–2 hours",
+    "ticketed": true,
+    "ticket_indian": "A small slot ticket. Numbers are capped. Often closed on Monday.",
+    "ticket_foreign": "A small ticket. Check the morning and evening windows before you go.",
+    "getting_there": "Jubilee Hills, about 30 minutes from Tank Bund. The gate is on Road No. 2.",
+    "stay_nearby": "Jubilee Hills and Banjara Hills are the obvious hotels if you want the park at opening time. Any central hotel works if you can leave by 6 am.",
+    "what_to_pack": "Walking shoes, water, and no plastic. The hours listed on this site are the morning walk. Evening entry is a separate window.",
+    "highlights": [
+      "A real forest walk inside the city",
+      "Birds and shade before the day heats up",
+      "Timed entry, so it never becomes a fairground"
+    ]
+  },
+  "nehru-zoological-park": {
+    "visit_duration": "3–4 hours",
+    "ticketed": true,
+    "ticket_indian": "Zoo ticket. The safari bus, when running, is extra. Closed on Monday. Last entry is well before closing.",
+    "ticket_foreign": "A higher ticket. Safari is extra.",
+    "getting_there": "Bahadurpura, about 40 minutes from Tank Bund. Go at opening.",
+    "stay_nearby": "Stay in the city. The zoo is a morning, not a place to sleep beside.",
+    "what_to_pack": "Water, a hat, and comfortable shoes. The grounds are large.",
+    "highlights": [
+      "A full morning rather than a quick loop",
+      "The safari bus if it is operating",
+      "Mir Alam Tank along the edge of the park"
+    ]
+  },
+  "mrugavani-national-park": {
+    "visit_duration": "1.5–2 hours",
+    "ticketed": true,
+    "ticket_indian": "Forest entry ticket. Confirm which weekday is closed.",
+    "ticket_foreign": "A forest ticket. Ask about the holiday before you commit the morning.",
+    "getting_there": "Near Chilkur, about 50 minutes from Tank Bund. Easy to combine with the temple or Gandipet.",
+    "stay_nearby": "Return to the city or a Gandipet resort. There is no lodge you should count on inside the park.",
+    "what_to_pack": "Closed shoes, water, and insect repellent in the wet months.",
+    "highlights": [
+      "Short trails in dry forest",
+      "Spotted deer if you are quiet",
+      "A greener morning than another mall"
+    ]
+  },
+  "pocharam-sanctuary": {
+    "visit_duration": "A long day, or a night in Medak district",
+    "ticketed": true,
+    "ticket_indian": "Forest entry rules and fees change. Confirm with the department before you go.",
+    "ticket_foreign": "Same. Do not assume the gate will be open to a casual walk-up.",
+    "getting_there": "About two and a half hours toward Medak. This is the sanctuary, not a neighbourhood lake.",
+    "stay_nearby": "Medak town is the practical night if you do not want a four-hour round trip in one day. Carry the plan that the stay will be simple.",
+    "what_to_pack": "Food, water, and a full tank. Follow posted trail limits.",
+    "highlights": [
+      "The reservoir and winter birds",
+      "Scrub forest well outside the city",
+      "A quiet day if you confirm entry first"
+    ]
+  },
+  "laad-bazaar": {
+    "visit_duration": "1–2 hours",
+    "ticketed": false,
+    "ticket_indian": "Free to walk. You pay for what you buy.",
+    "ticket_foreign": "Free to walk. Bargain is expected.",
+    "getting_there": "The lane west of Charminar. Use the Charminar cab and walk in.",
+    "stay_nearby": "Abids or Nampally. Do not look for a hotel inside the bazaar.",
+    "what_to_pack": "Cash, a small bag worn in front, and time. Evenings are when the shops are fully open.",
+    "highlights": [
+      "Bangles and pearls",
+      "The press of a real market, not a craft village",
+      "Charminar at the end of the lane"
+    ]
+  },
+  "moazzam-jahi-market": {
+    "visit_duration": "30–45 minutes",
+    "ticketed": false,
+    "ticket_indian": "Free to walk through.",
+    "ticket_foreign": "Free.",
+    "getting_there": "Near Abids, about 20 minutes from Tank Bund. Morning is when the flower and fruit trade makes the hall make sense.",
+    "stay_nearby": "Abids has older hotels if you want to be here at opening. Otherwise any central stay is fine.",
+    "what_to_pack": "Shoes you can get wet. Floors around the stalls are often damp.",
+    "highlights": [
+      "The 1930s market building",
+      "The morning flower and fruit trade",
+      "A short stop, best before midday"
+    ]
+  },
+  "shilparamam": {
+    "visit_duration": "2 hours, longer if there is a show",
+    "ticketed": true,
+    "ticket_indian": "Entry ticket. Some shows and workshops cost extra.",
+    "ticket_foreign": "A higher entry ticket. Check the evening programme.",
+    "getting_there": "Madhapur, about 45 minutes from Tank Bund. It sits near Durgam Cheruvu, so the two can share a cab.",
+    "stay_nearby": "HITEC City and Madhapur hotels are five to fifteen minutes away. Useful if the west of the city is already your base.",
+    "what_to_pack": "Nothing special. Stay for the performance if one is listed that night.",
+    "highlights": [
+      "Craft courtyards and stalls",
+      "An evening show when one is on",
+      "An easy pair with the cable bridge"
+    ]
+  },
+  "ramoji-film-city": {
+    "visit_duration": "A full day",
+    "ticketed": true,
+    "ticket_indian": "Book the tour ticket online before you go. Meals and some rides are extra, and food inside is priced like a venue.",
+    "ticket_foreign": "A higher tour ticket. Book ahead. Food is extra.",
+    "getting_there": "Abdullapurmet, about 75 minutes southeast of Tank Bund in normal traffic. Arrive at opening. Do not add a second sight.",
+    "stay_nearby": "There are hotels at the site and just outside if you want to avoid the evening return. A city hotel is fine if you are happy to get back after dark.",
+    "what_to_pack": "The whole day: hat, water, and a budget for lunch. Wear shoes you can walk in for hours.",
+    "highlights": [
+      "The studio tour and standing sets",
+      "A self-contained day with its own transport inside",
+      "A reason to leave the rest of the weekend empty"
+    ]
+  },
+  "bhongir-fort": {
+    "visit_duration": "2 hours, plus the drive",
+    "ticketed": true,
+    "ticket_indian": "A small ticket at the start of the climb.",
+    "ticket_foreign": "Ask at the gate. The fee is small.",
+    "getting_there": "About 80 minutes on the Warangal highway. The fort is the rock you can see from town.",
+    "stay_nearby": "You can be back in Hyderabad for dinner. Stay overnight in Bhongir only if you dislike highway returns after dark.",
+    "what_to_pack": "Shoes with grip and more water than you think. The steps are steep and exposed. Skip the harsh afternoon.",
+    "highlights": [
+      "The climb up a single rock",
+      "The view from the top",
+      "A real half-day, not a mall with a viewpoint"
+    ]
+  },
+  "ananthagiri-hills": {
+    "visit_duration": "A long day, better as a night",
+    "ticketed": false,
+    "ticket_indian": "Public viewpoints are generally free. Forest cottages are a separate booking and should be made ahead.",
+    "ticket_foreign": "Same. Cottage tariffs are published by the forest department.",
+    "getting_there": "About two hours toward Vikarabad. Monsoon roads can be slick. Mobile signal drops in the forest.",
+    "stay_nearby": "Book a forest cottage or a Vikarabad hotel if you want it to feel like a weekend. A day trip works, but you spend four hours in the car.",
+    "what_to_pack": "A light jacket for the evening, snacks, and a power bank.",
+    "highlights": [
+      "The closest real drop in temperature to the city",
+      "Forest viewpoints and short walks",
+      "A night that makes the drive worth it"
+    ]
+  },
+  "nagarjuna-sagar": {
+    "visit_duration": "A night at the dam",
+    "ticketed": false,
+    "ticket_indian": "The dam viewpoint is generally free. The boat to Nagarjunakonda, when it runs, is ticketed.",
+    "ticket_foreign": "Viewpoint free. Boat and museum tickets apply when the service is operating.",
+    "getting_there": "About three hours south. Confirm the boat that week before you plan the day around the island museum.",
+    "stay_nearby": "Sleep at the dam. There are tourism hotels and guesthouses. A six-hour round trip in one day makes the wall feel smaller than it is.",
+    "what_to_pack": "A booked room, a layer for the evening wind, and the assumption that the boat might be off.",
+    "highlights": [
+      "The masonry dam wall",
+      "The Krishna view",
+      "Nagarjunakonda by boat, only when it is running"
+    ]
+  },
+  "medak-cathedral": {
+    "visit_duration": "1 hour at the church, plus a long drive",
+    "ticketed": false,
+    "ticket_indian": "Free to enter as a visitor. Sunday services take priority.",
+    "ticket_foreign": "Free. Be quiet if a service is underway, and ask before you photograph inside.",
+    "getting_there": "About two and a half hours to Medak town. Medak Fort is the optional second stop if you still have legs.",
+    "stay_nearby": "Medak has simple hotels if you want the fort the next morning. Otherwise treat it as a long day and sleep back in Hyderabad.",
+    "what_to_pack": "Nothing special. A weekday avoids arriving in the middle of a Sunday service.",
+    "highlights": [
+      "The Gothic nave and stained glass",
+      "One of the largest churches in the region",
+      "Medak Fort if the day still has room"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+"""Hyderabad Weekends API."""

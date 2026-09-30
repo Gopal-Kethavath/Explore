@@ -1,0 +1,865 @@
+{
+  "categories": [
+    {
+      "slug": "heritage",
+      "name": "Heritage",
+      "description": "Forts, palaces, tombs, and the old city.",
+      "sort_order": 1
+    },
+    {
+      "slug": "museums",
+      "name": "Museums",
+      "description": "Collections that reward a slow afternoon.",
+      "sort_order": 2
+    },
+    {
+      "slug": "lakes",
+      "name": "Lakes",
+      "description": "Bunds and promenades for sunrise and sunset.",
+      "sort_order": 3
+    },
+    {
+      "slug": "temples",
+      "name": "Temples",
+      "description": "City temples and hill shrines.",
+      "sort_order": 4
+    },
+    {
+      "slug": "nature",
+      "name": "Nature",
+      "description": "Parks, forests, and wildlife within a weekend's reach.",
+      "sort_order": 5
+    },
+    {
+      "slug": "food",
+      "name": "Food and markets",
+      "description": "Bazaars where the market itself is the visit.",
+      "sort_order": 6
+    },
+    {
+      "slug": "day-trips",
+      "name": "Day trips",
+      "description": "Full days beyond the outer ring road.",
+      "sort_order": 7
+    },
+    {
+      "slug": "hill-stations",
+      "name": "Hills",
+      "description": "Cooler air in the Deccan hills.",
+      "sort_order": 8
+    }
+  ],
+  "places": [
+    {
+      "slug": "charminar",
+      "name": "Charminar",
+      "category": "heritage",
+      "summary": "The old city's landmark, best combined with the bazaar around it.",
+      "description": "Charminar stands at the crossing of the old city, built by Muhammad Quli Qutb Shah in 1591. The square, the arches, and the streets running off each side are the visit. Climbing the minar is sometimes open and sometimes not, so treat the monument and the neighbourhood as the plan.",
+      "address": "Charminar Road, Char Kaman, Ghansi Bazaar, Hyderabad",
+      "locality": "Old City",
+      "region": "in-city",
+      "distance_km": 8,
+      "drive_time_minutes": 35,
+      "latitude": 17.36163,
+      "longitude": 78.47467,
+      "best_time": "Weekday morning, before the square fills.",
+      "entry_fee_note": "The square is free to walk. A separate ticket applies when the minar is open for climbing.",
+      "tips": "Pair it with Laad Bazaar and Mecca Masjid. Sunday traffic around Char Kaman is slow, and parking close to the monument is limited.",
+      "rating": 4.6,
+      "is_featured": true,
+      "tags": ["photography", "heritage-walk"],
+      "hours": { "opens": "09:30", "closes": "17:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/1280px-Charminar_Hyderabad_1.jpg",
+          "alt_text": "Charminar monument in Hyderabad's old city",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "golconda-fort",
+      "name": "Golconda Fort",
+      "category": "heritage",
+      "summary": "A hill fort west of the city, with a climb and a wide view at the top.",
+      "description": "Golconda was the capital of the Qutb Shahi kingdom before Hyderabad was founded. The fort is a half-day of gates, granaries, and a steep walk to the citadel. The acoustic hall near the entrance and the view from the top are the two moments people remember.",
+      "address": "Golconda Fort Road, Hyderabad",
+      "locality": "Golconda",
+      "region": "in-city",
+      "distance_km": 11,
+      "drive_time_minutes": 40,
+      "latitude": 17.383056,
+      "longitude": 78.401111,
+      "best_time": "Opening time, or late afternoon in winter. Carry water in summer.",
+      "entry_fee_note": "Ticketed monument. Indian and foreign visitor rates differ, and the evening sound-and-light show is a separate ticket.",
+      "tips": "Allow two to three hours. Wear shoes you can climb in. The Qutb Shahi Tombs are a short drive away and make a natural second stop.",
+      "rating": 4.7,
+      "is_featured": true,
+      "tags": ["photography", "architecture"],
+      "hours": { "opens": "09:00", "closes": "17:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/1280px-Golconda_Fort_005.jpg",
+          "alt_text": "Stone ramparts of Golconda Fort",
+          "is_cover": true
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golconda%20Fort%20and%20Hyderabad%20city.jpg?width=1280",
+          "alt_text": "Golconda Fort with Hyderabad beyond the walls",
+          "is_cover": false
+        }
+      ]
+    },
+    {
+      "slug": "qutb-shahi-tombs",
+      "name": "Qutb Shahi Tombs",
+      "category": "heritage",
+      "summary": "A restored garden of royal tombs beside Golconda.",
+      "description": "The Qutb Shahi Tombs are the necropolis of the dynasty that built Golconda and Charminar. After a long restoration, the domes, plasterwork, and gardens are easy to walk. It is quieter than the fort and just as useful if you care about Deccan architecture.",
+      "address": "Qutb Shahi Tombs Road, Golconda, Hyderabad",
+      "locality": "Golconda",
+      "region": "in-city",
+      "distance_km": 12,
+      "drive_time_minutes": 45,
+      "latitude": 17.395,
+      "longitude": 78.396,
+      "best_time": "Morning, especially if you are also climbing Golconda the same day.",
+      "entry_fee_note": "Ticketed entry. Keep the ticket until you leave.",
+      "tips": "The site is mostly flat, with shade in the gardens. Combine it with Golconda Fort rather than treating the two as separate trips.",
+      "rating": 4.6,
+      "is_featured": true,
+      "tags": ["photography", "architecture", "quiet"],
+      "hours": { "opens": "09:30", "closes": "17:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Qutb_Shahi_Tomb_5.jpg/1280px-Qutb_Shahi_Tomb_5.jpg",
+          "alt_text": "Domed Qutb Shahi tomb in the Golconda necropolis",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "chowmahalla-palace",
+      "name": "Chowmahalla Palace",
+      "category": "heritage",
+      "summary": "The Nizam's city palace, kept as a formal set of courtyards.",
+      "description": "Chowmahalla was the seat of the Asaf Jahi Nizams. The southern courtyard, the clock tower, and the durbar hall are the heart of the visit. It sits in the old city, so it fits the same morning as Charminar if you start early.",
+      "address": "Motigalli, Khilwat, Hyderabad",
+      "locality": "Old City",
+      "region": "in-city",
+      "distance_km": 8,
+      "drive_time_minutes": 35,
+      "latitude": 17.358247,
+      "longitude": 78.471701,
+      "best_time": "When it opens. Friday is the usual closing day.",
+      "entry_fee_note": "Ticketed palace. Photography rules vary by room.",
+      "tips": "Closed on Friday. Allow about an hour and a half. The lanes around Moti Galli are narrow.",
+      "rating": 4.5,
+      "is_featured": false,
+      "tags": ["architecture"],
+      "hours": { "opens": "10:00", "closes": "17:00", "closed_days": [4] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1280px-Chowmahalla_Palace_01.jpg",
+          "alt_text": "Courtyard and facade of Chowmahalla Palace",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "falaknuma-palace",
+      "name": "Falaknuma Palace",
+      "category": "heritage",
+      "summary": "A hilltop Nizam palace, now a hotel you enter with a booking.",
+      "description": "Falaknuma sits above the old city and was built for the Paigah noble Viqar-ul-Umra before it passed to the Nizam. The interiors are part of the Taj Falaknuma Palace hotel. A walk-up visit is not how this place works: high tea or a stay is the way in.",
+      "address": "Engine Bowli, Falaknuma, Hyderabad",
+      "locality": "Falaknuma",
+      "region": "in-city",
+      "distance_km": 14,
+      "drive_time_minutes": 45,
+      "latitude": 17.330955,
+      "longitude": 78.467504,
+      "best_time": "Late afternoon if you have a high-tea booking. The drive up is the view.",
+      "entry_fee_note": "Interiors are for hotel guests and visitors with a booked experience such as high tea. There is no general monument ticket.",
+      "tips": "Book before you go. The approach road is the free look at the building and the old city below.",
+      "rating": 4.4,
+      "is_featured": false,
+      "tags": ["architecture"],
+      "hours": { "opens": "09:00", "closes": "18:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Falaknuma_Palace_01.jpg/1280px-Falaknuma_Palace_01.jpg",
+          "alt_text": "Falaknuma Palace on its hill above Hyderabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "paigah-tombs",
+      "name": "Paigah Tombs",
+      "category": "heritage",
+      "summary": "Lime and stucco tombs that most weekend lists skip.",
+      "description": "The Paigah Tombs in Santoshnagar belong to the aristocratic family that served the Nizams. The interiors are covered in carved lime plaster, closer to lace than to stone. It is a short stop, and it is usually quiet.",
+      "address": "Santoshnagar, Hyderabad",
+      "locality": "Santoshnagar",
+      "region": "in-city",
+      "distance_km": 10,
+      "drive_time_minutes": 35,
+      "latitude": 17.3439,
+      "longitude": 78.5041,
+      "best_time": "Late morning on a weekday.",
+      "entry_fee_note": "A small entry fee is usually collected on site. Confirm it at the gate.",
+      "tips": "Give it 45 minutes. It pairs with Salar Jung Museum if you are already on the south side of the river.",
+      "rating": 4.3,
+      "is_featured": false,
+      "tags": ["architecture", "quiet"],
+      "hours": { "opens": "10:00", "closes": "17:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Paigah_Tombs.jpg/1280px-Paigah_Tombs.jpg",
+          "alt_text": "Carved facade of the Paigah Tombs",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "mecca-masjid",
+      "name": "Mecca Masjid",
+      "category": "heritage",
+      "summary": "One of the largest mosques in India, a few steps from Charminar.",
+      "description": "Mecca Masjid was built through the 17th century and can hold thousands of worshippers. The courtyard, the arched prayer hall, and the graves of several Nizams are what a visitor comes to see. It is a working mosque, so the visit follows the caretakers' instructions.",
+      "address": "Charminar Road, Char Kaman, Hyderabad",
+      "locality": "Old City",
+      "region": "in-city",
+      "distance_km": 8,
+      "drive_time_minutes": 35,
+      "latitude": 17.3606,
+      "longitude": 78.4733,
+      "best_time": "Between prayer times on a weekday morning.",
+      "entry_fee_note": "Free to enter. Shoes come off at the gate.",
+      "tips": "Dress modestly. Women should carry a scarf. Avoid walking through during prayers, and follow any request to wait or to stay in a designated area.",
+      "rating": 4.6,
+      "is_featured": false,
+      "tags": ["heritage-walk", "architecture"],
+      "hours": { "opens": "06:00", "closes": "20:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mecca_Masjid_Hyderabad.JPG/1280px-Mecca_Masjid_Hyderabad.JPG",
+          "alt_text": "Courtyard and arches of Mecca Masjid, Hyderabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "salar-jung-museum",
+      "name": "Salar Jung Museum",
+      "category": "museums",
+      "summary": "A vast personal collection on the south bank of the Musi.",
+      "description": "Salar Jung Museum holds the art collection of Nawab Mir Yousuf Ali Khan, Salar Jung III. The galleries run from Indian miniatures and Deccan weapons to European sculpture and the double-sided clock. It is one of the few places in the city that genuinely needs a long afternoon.",
+      "address": "Salar Jung Road, Darulshifa, Hyderabad",
+      "locality": "Darulshifa",
+      "region": "in-city",
+      "distance_km": 7,
+      "drive_time_minutes": 30,
+      "latitude": 17.371426,
+      "longitude": 78.480347,
+      "best_time": "Right at opening on a day that is not Friday.",
+      "entry_fee_note": "Ticketed museum. Large bags are left at the cloakroom.",
+      "tips": "Closed on Friday. Allow at least two hours, three if you read labels. The veiled Rebecca and the clock are the crowded rooms.",
+      "rating": 4.6,
+      "is_featured": true,
+      "tags": ["family", "architecture"],
+      "hours": { "opens": "10:00", "closes": "17:00", "closed_days": [4] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg/1280px-Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg",
+          "alt_text": "Front of the Salar Jung Museum in Hyderabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "hussain-sagar",
+      "name": "Hussain Sagar",
+      "category": "lakes",
+      "summary": "The city's central lake, with Tank Bund as the evening walk.",
+      "description": "Hussain Sagar sits between Hyderabad and Secunderabad. Tank Bund and Necklace Road are the public edges, and the Buddha statue stands on the rock in the middle. Distances on this site are measured from Tank Bund, so this is the reference point for every other trip.",
+      "address": "Tank Bund Road, Hyderabad",
+      "locality": "Tank Bund",
+      "region": "in-city",
+      "distance_km": 1,
+      "drive_time_minutes": 10,
+      "latitude": 17.42477,
+      "longitude": 78.47332,
+      "best_time": "Sunset, when the heat drops and the promenade fills.",
+      "entry_fee_note": "The bund and Necklace Road are public. Boat rides from Lumbini Park are ticketed and run on their own schedule.",
+      "tips": "Walk Tank Bund, then cross to Lumbini Park if you want the boat. Weekend evenings are crowded and parking fills early.",
+      "rating": 4.4,
+      "is_featured": true,
+      "tags": ["sunset", "family"],
+      "hours": { "opens": "05:00", "closes": "22:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_view_of_Hussain_Sagar_from_Bansalipet.jpg/1280px-Aerial_view_of_Hussain_Sagar_from_Bansalipet.jpg",
+          "alt_text": "Aerial view of Hussain Sagar lake",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "durgam-cheruvu",
+      "name": "Durgam Cheruvu",
+      "category": "lakes",
+      "summary": "Secret Lake and the cable-stayed bridge at HITEC City.",
+      "description": "Durgam Cheruvu is a rocky lake between Jubilee Hills and HITEC City, now edged by a long cable-stayed bridge. The walk along the bridge at sunset is the reason to come. It is a city lake, not a swimming spot.",
+      "address": "Durgam Cheruvu Cable Bridge, Madhapur, Hyderabad",
+      "locality": "Madhapur",
+      "region": "in-city",
+      "distance_km": 12,
+      "drive_time_minutes": 35,
+      "latitude": 17.42886,
+      "longitude": 78.387794,
+      "best_time": "Sunset on a clear evening.",
+      "entry_fee_note": "The bridge walkway is free. Nearby cafes are separate.",
+      "tips": "Go for the view, not for water activities. Weekend sunsets draw a crowd on the bridge.",
+      "rating": 4.3,
+      "is_featured": false,
+      "tags": ["sunset", "photography"],
+      "hours": { "opens": "05:00", "closes": "22:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Durgam_Cheruvu.jpg",
+          "alt_text": "Durgam Cheruvu lake in Hyderabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "osman-sagar",
+      "name": "Osman Sagar",
+      "category": "lakes",
+      "summary": "Gandipet lake, a bund-and-sunset drive on the southwest edge.",
+      "description": "Osman Sagar, still called Gandipet, was built as a drinking-water reservoir on the Musi. People come for the bund, the width of the water, and a quieter sunset than Necklace Road. Facilities are basic compared with the city lakes.",
+      "address": "Gandipet, Hyderabad",
+      "locality": "Gandipet",
+      "region": "half-day",
+      "distance_km": 22,
+      "drive_time_minutes": 50,
+      "latitude": 17.383333,
+      "longitude": 78.3,
+      "best_time": "Late afternoon in winter. Avoid the hottest hours in April and May.",
+      "entry_fee_note": "The public bund is free. Food stalls are informal and not always open.",
+      "tips": "Combine it with Himayat Sagar or Chilkur Balaji if you want a southwest loop. Carry water.",
+      "rating": 4.3,
+      "is_featured": false,
+      "tags": ["sunset", "quiet"],
+      "hours": { "opens": "06:00", "closes": "18:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gandipet.jpg/1280px-Gandipet.jpg",
+          "alt_text": "Osman Sagar reservoir at Gandipet",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "himayat-sagar",
+      "name": "Himayat Sagar",
+      "category": "lakes",
+      "summary": "The quieter twin of Gandipet, with a long bund and little else.",
+      "description": "Himayat Sagar is the second Musi reservoir, downstream in spirit and usually less visited than Osman Sagar. The stop is the bund and the water. There is no developed promenade, which is the point if Necklace Road feels too busy.",
+      "address": "Himayat Sagar, Hyderabad",
+      "locality": "Himayat Sagar",
+      "region": "half-day",
+      "distance_km": 24,
+      "drive_time_minutes": 55,
+      "latitude": 17.336,
+      "longitude": 78.366,
+      "best_time": "Late afternoon. The light on the water is the visit.",
+      "entry_fee_note": "Free public access at the bund. Amenities are minimal.",
+      "tips": "Do it in the same drive as Osman Sagar. Shops are sparse, so eat before you leave the city.",
+      "rating": 4.2,
+      "is_featured": false,
+      "tags": ["sunset", "quiet"],
+      "hours": { "opens": "06:00", "closes": "18:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Himayat_Sagar.jpg/1280px-Himayat_Sagar.jpg",
+          "alt_text": "Himayat Sagar reservoir outside Hyderabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "ntr-gardens",
+      "name": "NTR Gardens",
+      "category": "lakes",
+      "summary": "Lawns on the south shore of Hussain Sagar, next to an easy evening.",
+      "description": "NTR Gardens sit at the southern end of Hussain Sagar, beside the memorial and Lumbini Park. It is a lawn, a short walk, and a place to be outside after work. Treat it as an add-on to Tank Bund, not as a day out.",
+      "address": "NTR Marg, Hussain Sagar, Hyderabad",
+      "locality": "Hussain Sagar",
+      "region": "in-city",
+      "distance_km": 2,
+      "drive_time_minutes": 10,
+      "latitude": 17.4062,
+      "longitude": 78.4708,
+      "best_time": "Evening, when the gardens and the lake edge are both in use.",
+      "entry_fee_note": "Ticketed garden. The memorial next door may have its own ticket.",
+      "tips": "Confirm the day's opening before you cross town. Weekend evenings are the busy slot.",
+      "rating": 4.1,
+      "is_featured": false,
+      "tags": ["family"],
+      "hours": { "opens": "09:00", "closes": "21:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NTR_Memorial.jpg",
+          "alt_text": "NTR Memorial beside NTR Gardens on Hussain Sagar",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "birla-mandir",
+      "name": "Birla Mandir",
+      "category": "temples",
+      "summary": "A white marble temple on Naubat Pahad, above the lake.",
+      "description": "Birla Mandir is a modern marble temple dedicated to Venkateswara, set on the hill between Hussain Sagar and the Assembly. The terrace looks over the lake, and the visit itself is short. Shoes stay at the entrance.",
+      "address": "Naubat Pahad, Hyderabad",
+      "locality": "Naubat Pahad",
+      "region": "in-city",
+      "distance_km": 3,
+      "drive_time_minutes": 15,
+      "latitude": 17.406188,
+      "longitude": 78.469063,
+      "best_time": "Early evening, when the marble holds the last light.",
+      "entry_fee_note": "Free. Photography inside the sanctum is restricted.",
+      "tips": "The temple closes in the middle of the day, typically from noon to about 3 pm, then reopens into the evening. Dress modestly.",
+      "rating": 4.6,
+      "is_featured": false,
+      "tags": ["family", "sunset"],
+      "hours": { "opens": "07:00", "closes": "21:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Birla_Mandir%2C_Hyderabad.png/1280px-Birla_Mandir%2C_Hyderabad.png",
+          "alt_text": "White marble Birla Mandir on Naubat Pahad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "chilkur-balaji",
+      "name": "Chilkur Balaji Temple",
+      "category": "temples",
+      "summary": "The Visa Balaji temple, a southwest drive that is packed on weekends.",
+      "description": "Chilkur Balaji is a small hill-country temple that became famous for the custom of circling the sanctum with a wish, and circling again when it is fulfilled. There is no hundi. The building is modest. The crowd, on a Saturday, is not.",
+      "address": "Chilkur, Rangareddy district, Telangana",
+      "locality": "Chilkur",
+      "region": "half-day",
+      "distance_km": 28,
+      "drive_time_minutes": 60,
+      "latitude": 17.358333,
+      "longitude": 78.298611,
+      "best_time": "A weekday morning. Weekends mean long queues.",
+      "entry_fee_note": "Free. The custom is to offer prayers without a donation box.",
+      "tips": "The temple typically closes for a few hours in the afternoon and reopens later. Dress modestly, and combine the drive with Gandipet if you want a second stop.",
+      "rating": 4.5,
+      "is_featured": false,
+      "tags": ["family"],
+      "hours": { "opens": "06:00", "closes": "20:30", "closed_days": [] },
+      "photos": []
+    },
+    {
+      "slug": "yadagirigutta",
+      "name": "Yadadri",
+      "category": "temples",
+      "summary": "The rebuilt Lakshmi Narasimha temple on a hill, about 90 minutes out.",
+      "description": "Yadagirigutta, now visited as Yadadri, is a hill temple of Lakshmi Narasimha that was rebuilt at a much larger scale. The drive is straightforward, and the wait for darshan is the variable. Festivals and weekends change the plan completely.",
+      "address": "Yadagirigutta, Yadadri Bhuvanagiri district, Telangana",
+      "locality": "Yadagirigutta",
+      "region": "half-day",
+      "distance_km": 65,
+      "drive_time_minutes": 90,
+      "latitude": 17.5892,
+      "longitude": 78.9446,
+      "best_time": "A weekday, as early as you can manage.",
+      "entry_fee_note": "Darshan has free and paid queues. Special-entry tickets sell out on busy days.",
+      "tips": "Check the day's queue before you leave the city. The hill can be reached by road or ropeway when the ropeway is running. Carry patience on Saturdays.",
+      "rating": 4.5,
+      "is_featured": false,
+      "tags": ["family"],
+      "hours": { "opens": "04:30", "closes": "21:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yadadri_Temple_on_the_hilltop.jpg/1280px-Yadadri_Temple_on_the_hilltop.jpg",
+          "alt_text": "Yadadri temple on the hill at Yadagirigutta",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "thousand-pillar-temple",
+      "name": "Thousand Pillar Temple",
+      "category": "temples",
+      "summary": "A Kakatiya star-temple in Hanamkonda, worth the night in Warangal.",
+      "description": "The Thousand Pillar Temple was built by the Kakatiyas in the 12th century. The star-shaped plan, the lathe-turned pillars, and the Nandi are the reasons to make the drive to Hanamkonda. Three hours each way means this belongs to an overnight weekend, ideally with Warangal Fort the next morning.",
+      "address": "Hanamkonda, Warangal, Telangana",
+      "locality": "Hanamkonda",
+      "region": "weekend",
+      "distance_km": 145,
+      "drive_time_minutes": 180,
+      "latitude": 18.003722,
+      "longitude": 79.57475,
+      "best_time": "Morning, after a night in Warangal rather than as a there-and-back dash.",
+      "entry_fee_note": "A small ticket is usually charged. Confirm the current rate at the gate.",
+      "tips": "Stay in Hanamkonda or Warangal and add Warangal Fort if you have the next morning. The highway is the easy part; the heat on the stone is the hard part.",
+      "rating": 4.5,
+      "is_featured": true,
+      "tags": ["architecture", "photography"],
+      "hours": { "opens": "06:00", "closes": "18:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/1280px-1000pillar_temple_warangal.jpg",
+          "alt_text": "Thousand Pillar Temple in Hanamkonda",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "kbr-national-park",
+      "name": "KBR National Park",
+      "category": "nature",
+      "summary": "A forest walk in Jubilee Hills, with timed morning and evening entry.",
+      "description": "Kasu Brahmananda Reddy National Park is a pocket of scrub forest inside the city. The trails are the attraction: birds, shade, and a break from the road around it. Entry is in slots, often morning and evening, and a weekly holiday is common.",
+      "address": "Road No. 2, Jubilee Hills, Hyderabad",
+      "locality": "Jubilee Hills",
+      "region": "in-city",
+      "distance_km": 8,
+      "drive_time_minutes": 30,
+      "latitude": 17.420635,
+      "longitude": 78.41927,
+      "best_time": "The morning slot, before the day heats up.",
+      "entry_fee_note": "Ticketed, with a cap on how many people enter a slot. Plastic is restricted.",
+      "tips": "Monday is often the closed day, and evening hours are a separate window from the morning. Check the current slot before you go. The hours listed here are the morning walk.",
+      "rating": 4.5,
+      "is_featured": false,
+      "tags": ["family", "quiet", "wildlife"],
+      "hours": { "opens": "06:00", "closes": "10:00", "closed_days": [0] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kbr_park.jpg/1280px-Kbr_park.jpg",
+          "alt_text": "Tree cover inside KBR National Park, Jubilee Hills",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "nehru-zoological-park",
+      "name": "Nehru Zoological Park",
+      "category": "nature",
+      "summary": "The city zoo, large enough to need a morning rather than an hour.",
+      "description": "Nehru Zoological Park spreads along the Mir Alam Tank. It is a conventional large zoo: enclosures, a lot of walking, and a safari bus that is ticketed separately. Go early, because the animals settle and the paths get hot.",
+      "address": "Bahadurpura, Hyderabad",
+      "locality": "Bahadurpura",
+      "region": "in-city",
+      "distance_km": 12,
+      "drive_time_minutes": 40,
+      "latitude": 17.351111,
+      "longitude": 78.449722,
+      "best_time": "At opening. Last entry is well before the gate closes.",
+      "entry_fee_note": "Ticketed. The safari bus, if running, is an extra ticket.",
+      "tips": "Closed on Monday. Carry water and a hat. The park is big enough that a casual one-hour plan does not work.",
+      "rating": 4.3,
+      "is_featured": false,
+      "tags": ["family", "wildlife"],
+      "hours": { "opens": "08:30", "closes": "17:00", "closed_days": [0] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hyderabad_zoo.jpg/1280px-Hyderabad_zoo.jpg",
+          "alt_text": "Grounds of Nehru Zoological Park, Hyderabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "mrugavani-national-park",
+      "name": "Mrugavani National Park",
+      "category": "nature",
+      "summary": "A small dry forest near Chilkur, with short trails and spotted deer.",
+      "description": "Mrugavani is a compact national park on the southwest fringe, in the same direction as Chilkur. The trails are short, the forest is dry deciduous, and the pleasure is being among trees without a three-hour drive. Confirm the weekly holiday before you commit the morning.",
+      "address": "Mrugavani National Park, Chilkur, Telangana",
+      "locality": "Chilkur",
+      "region": "half-day",
+      "distance_km": 20,
+      "drive_time_minutes": 50,
+      "latitude": 17.355228,
+      "longitude": 78.338159,
+      "best_time": "Winter morning. Summer middays are harsh on the open stretches.",
+      "entry_fee_note": "Ticketed forest entry. Rules on plastic and food are posted at the gate.",
+      "tips": "Ask at the gate which day is closed that month. Easy to combine with Chilkur Balaji or the Gandipet lakes.",
+      "rating": 4.2,
+      "is_featured": false,
+      "tags": ["wildlife", "quiet"],
+      "hours": { "opens": "09:00", "closes": "17:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pied_Cuckoo_%28Clamator_jacobinus%29_W_IMG_9409.jpg",
+          "alt_text": "Pied cuckoo photographed at Mrugavani National Park",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "pocharam-sanctuary",
+      "name": "Pocharam Wildlife Sanctuary",
+      "category": "nature",
+      "summary": "A Medak sanctuary and lake, quiet enough to justify the long drive.",
+      "description": "Pocharam Wildlife Sanctuary sits in Medak district around a reservoir, with scrub forest and a lot of birds in season. It is a different trip from the city parks: longer, quieter, and dependent on forest-department rules that day. Plan it as a long day or an overnight, not as an evening add-on.",
+      "address": "Pocharam Wildlife Sanctuary, Medak district, Telangana",
+      "locality": "Medak district",
+      "region": "weekend",
+      "distance_km": 115,
+      "drive_time_minutes": 150,
+      "latitude": 18.125,
+      "longitude": 78.2,
+      "best_time": "Winter, when the drive is pleasant and the wetland birds are in.",
+      "entry_fee_note": "Forest entry rules and fees change. Confirm with the department before you go.",
+      "tips": "This is the Medak sanctuary, not a neighbourhood lake. Carry food and water, and treat posted trail limits as the visit.",
+      "rating": 4.2,
+      "is_featured": false,
+      "tags": ["wildlife", "quiet"],
+      "hours": { "opens": "09:00", "closes": "17:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/A_view_from_Pocharam_Lake_with_Herons%2C_Egrets%2C_Openbills_etc_W_IMG_9727.jpg",
+          "alt_text": "Herons, egrets, and openbills at Pocharam Lake",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "laad-bazaar",
+      "name": "Laad Bazaar",
+      "category": "food",
+      "summary": "Bangles, pearls, and the crush of shops west of Charminar.",
+      "description": "Laad Bazaar is the market lane running west from Charminar, known for bangles, pearls, and wedding shopping. The visit is the street itself: narrow, specific, and better if you already wanted to be at Charminar. Eat in the old city while you are there, because the market is the neighbourhood.",
+      "address": "Laad Bazaar, Charminar, Hyderabad",
+      "locality": "Old City",
+      "region": "in-city",
+      "distance_km": 8,
+      "drive_time_minutes": 35,
+      "latitude": 17.361923,
+      "longitude": 78.472842,
+      "best_time": "Late afternoon into evening, when the shops are fully open.",
+      "entry_fee_note": "Free to walk. You pay for what you buy. Bargain is expected.",
+      "tips": "Keep bags in front of you. If you only want a look, go on a weekday. Combine it with Charminar and Mecca Masjid and park once.",
+      "rating": 4.4,
+      "is_featured": false,
+      "tags": ["food", "heritage-walk"],
+      "hours": { "opens": "11:00", "closes": "21:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Laad_Bazaar.jpg",
+          "alt_text": "Shops along Laad Bazaar near Charminar",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "moazzam-jahi-market",
+      "name": "Moazzam Jahi Market",
+      "category": "food",
+      "summary": "A 1930s market hall, best seen when the flower and fruit trade is up.",
+      "description": "Moazzam Jahi Market was built in the 1930s near the Niloufer Hospital side of the city. The building is the sight: a formal market, not a mall. Mornings are when the flowers and fruit make the hall make sense.",
+      "address": "Mozamjahi Market Road, Hyderabad",
+      "locality": "Abids",
+      "region": "in-city",
+      "distance_km": 5,
+      "drive_time_minutes": 20,
+      "latitude": 17.3845,
+      "longitude": 78.475052,
+      "best_time": "Early morning, for the wholesale trade.",
+      "entry_fee_note": "Free to walk through. Watch for wet floors around the stalls.",
+      "tips": "Go early. By midday the interesting part of the trade has thinned, though the building is still worth ten minutes.",
+      "rating": 4.2,
+      "is_featured": false,
+      "tags": ["food", "architecture"],
+      "hours": { "opens": "06:00", "closes": "21:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moazzam%20Jahi%20Market%202024.jpg?width=1280",
+          "alt_text": "Moazzam Jahi Market building in Hyderabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "shilparamam",
+      "name": "Shilparamam",
+      "category": "heritage",
+      "summary": "A crafts village in Madhapur, with evening performances.",
+      "description": "Shilparamam is an arts-and-crafts village built for visitors, with stalls, courtyards, and a stage. It is curated rather than ancient, and it works well with children or as an evening after a HITEC City day. The performances, when scheduled, are the reason to stay past sunset.",
+      "address": "Shilparamam, HITEC City, Madhapur, Hyderabad",
+      "locality": "Madhapur",
+      "region": "in-city",
+      "distance_km": 16,
+      "drive_time_minutes": 45,
+      "latitude": 17.451,
+      "longitude": 78.377,
+      "best_time": "Late afternoon into the evening show.",
+      "entry_fee_note": "Ticketed entry. Some shows and workshops cost extra.",
+      "tips": "Check whether a performance is on that night. It sits near Durgam Cheruvu, so the two can share a drive.",
+      "rating": 4.2,
+      "is_featured": false,
+      "tags": ["family"],
+      "hours": { "opens": "11:00", "closes": "20:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Entrance_of_Shilparamam%2C_Jubileehills.jpg/1280px-Entrance_of_Shilparamam%2C_Jubileehills.jpg",
+          "alt_text": "Entrance gate of Shilparamam crafts village",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "ramoji-film-city",
+      "name": "Ramoji Film City",
+      "category": "day-trips",
+      "summary": "A full-day studio tour southeast of the city. Give it the whole day.",
+      "description": "Ramoji Film City is a working studio complex and a guided tourist circuit, spread over a large site at Abdullapurmet. The ticket covers the tour and some attractions. Food inside is its own budget. It is a there-and-back day, and it does not combine well with a second sight.",
+      "address": "Ramoji Film City, Abdullapurmet, Telangana",
+      "locality": "Abdullapurmet",
+      "region": "half-day",
+      "distance_km": 35,
+      "drive_time_minutes": 75,
+      "latitude": 17.252,
+      "longitude": 78.681,
+      "best_time": "Arrive at opening. Weekdays are calmer than Sundays.",
+      "entry_fee_note": "Ticketed, and best booked before you go. Meals and some rides are extra.",
+      "tips": "Plan to be there until late afternoon. The drive is under 90 minutes in normal traffic, but the site itself takes the day.",
+      "rating": 4.4,
+      "is_featured": true,
+      "tags": ["family"],
+      "hours": { "opens": "09:00", "closes": "17:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ramoji_Film_City.jpg",
+          "alt_text": "Sets and grounds at Ramoji Film City",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "bhongir-fort",
+      "name": "Bhongir Fort",
+      "category": "heritage",
+      "summary": "A steep climb up a single rock, an hour and a bit from the city.",
+      "description": "Bhongir Fort sits on an egg-shaped monolith beside the town of Bhongir, on the way toward Warangal. The walk up is exposed steps and rock, and the view from the top is why you do it. It is a morning trip, not a midday one, for most of the year.",
+      "address": "Bhongir Fort, Yadadri Bhuvanagiri district, Telangana",
+      "locality": "Bhongir",
+      "region": "half-day",
+      "distance_km": 50,
+      "drive_time_minutes": 80,
+      "latitude": 17.515694,
+      "longitude": 78.892667,
+      "best_time": "Soon after opening, before the rock heats up.",
+      "entry_fee_note": "A small ticket is collected at the start of the climb.",
+      "tips": "Wear shoes with grip and carry water. The steps are steep and there is little shade. Skip it in the harsh afternoon or if anyone in the group is unsteady on stairs.",
+      "rating": 4.4,
+      "is_featured": true,
+      "tags": ["photography"],
+      "hours": { "opens": "10:00", "closes": "17:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bhongir_Fort_Royal_gate.jpg/1280px-Bhongir_Fort_Royal_gate.jpg",
+          "alt_text": "Royal gate of Bhongir Fort",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "ananthagiri-hills",
+      "name": "Ananthagiri Hills",
+      "category": "hill-stations",
+      "summary": "Forest and a real drop in temperature, near Vikarabad.",
+      "description": "Ananthagiri Hills are the closest proper hill air to Hyderabad, in Vikarabad district. Forest department cottages, viewpoints, and a temple sit in the trees. A day trip is common and long. A night in a cottage is the version that feels like a weekend.",
+      "address": "Ananthagiri Hills, Vikarabad district, Telangana",
+      "locality": "Vikarabad",
+      "region": "weekend",
+      "distance_km": 80,
+      "drive_time_minutes": 120,
+      "latitude": 17.312,
+      "longitude": 77.863,
+      "best_time": "Monsoon and winter. Roads can be slick in heavy rain.",
+      "entry_fee_note": "Forest entry and cottage bookings are separate. Book a cottage ahead if you want to stay.",
+      "tips": "Two hours each way is a fair estimate without traffic. Carry a layer for the evening. Mobile signal is patchy in the forest.",
+      "rating": 4.6,
+      "is_featured": true,
+      "tags": ["monsoon", "quiet"],
+      "hours": { "opens": "08:00", "closes": "17:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ananthagiri_Hills.JPG/1280px-Ananthagiri_Hills.JPG",
+          "alt_text": "Forested slopes at Ananthagiri Hills near Vikarabad",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "nagarjuna-sagar",
+      "name": "Nagarjuna Sagar",
+      "category": "day-trips",
+      "summary": "The masonry dam on the Krishna, a night away rather than an evening plan.",
+      "description": "Nagarjuna Sagar is one of the large masonry dams, holding the Krishna between Telangana and Andhra Pradesh. The dam wall and the view are the certain part of the visit. The boat to the Nagarjunakonda museum island runs when water and the department allow it, so treat the boat as a bonus you confirm that week.",
+      "address": "Nagarjuna Sagar Dam, Telangana",
+      "locality": "Nagarjuna Sagar",
+      "region": "weekend",
+      "distance_km": 150,
+      "drive_time_minutes": 180,
+      "latitude": 16.575556,
+      "longitude": 79.311667,
+      "best_time": "Winter, with a night at the dam rather than a six-hour round trip in one day.",
+      "entry_fee_note": "Viewpoints may be free. The boat and museum, when operating, are ticketed.",
+      "tips": "About three hours each way. Check whether the Nagarjunakonda boat is running before you plan the day around it. Evenings at the dam are quiet.",
+      "rating": 4.4,
+      "is_featured": true,
+      "tags": ["photography"],
+      "hours": { "opens": "09:00", "closes": "17:30", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NagarjunaSagarDam.JPG/1280px-NagarjunaSagarDam.JPG",
+          "alt_text": "Masonry wall of Nagarjuna Sagar Dam",
+          "is_cover": true
+        }
+      ]
+    },
+    {
+      "slug": "medak-cathedral",
+      "name": "Medak Cathedral",
+      "category": "heritage",
+      "summary": "A large Gothic church in Medak town, a long day from the city.",
+      "description": "Medak Cathedral is one of the largest churches in the region, built in the early 20th century in Gothic style. The stained glass and the scale of the nave are the visit. Medak town is far enough that the cathedral belongs with a look at Medak Fort if you have the energy, or with an overnight.",
+      "address": "Medak Cathedral, Medak, Telangana",
+      "locality": "Medak",
+      "region": "weekend",
+      "distance_km": 100,
+      "drive_time_minutes": 140,
+      "latitude": 18.0537,
+      "longitude": 78.2671,
+      "best_time": "A weekday, so you are not arriving in the middle of a Sunday service.",
+      "entry_fee_note": "Free to enter as a visitor. Services take priority, especially on Sunday.",
+      "tips": "Be quiet if a service is underway, and ask before you photograph inside. The drive is about two and a half hours. Medak Fort is the optional second stop.",
+      "rating": 4.4,
+      "is_featured": false,
+      "tags": ["architecture", "quiet"],
+      "hours": { "opens": "09:00", "closes": "17:00", "closed_days": [] },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Medak-church.png",
+          "alt_text": "Medak Cathedral in Medak, Telangana",
+          "is_cover": true
+        }
+      ]
+    }
+  ]
+}
